@@ -1,0 +1,999 @@
+
+Thread ID:1
+Execution Stack:(v<-int;(v=20;(wait(10);print(v*10)))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=20;(wait(10);print(v*10))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=20;(wait(10);print(v*10))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=20;(wait(10);print(v*10))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=20;(wait(10);print(v*10))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=20;(wait(10);print(v*10))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=20;(wait(10);print(v*10))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(wait(10);print(v*10)) v=20 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(wait(10);print(v*10)) v=20 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(wait(10);print(v*10)) v=20 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(wait(10);print(v*10)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(wait(10);print(v*10)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(wait(10);print(v*10)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(10);wait(9)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(10);wait(9)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(10);wait(9)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(9) print(10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(9) print(10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(9) print(10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(9) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(9) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(9) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(9);wait(8)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(9);wait(8)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(9);wait(8)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(8) print(9) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(8) print(9) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(8) print(9) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(8) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(8) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(8) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(8);wait(7)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(8);wait(7)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(8);wait(7)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(7) print(8) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(7) print(8) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(7) print(8) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(7) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(7) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(7) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(7);wait(6)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(7);wait(6)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(7);wait(6)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(6) print(7) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(6) print(7) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(6) print(7) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(6) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(6) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(6) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(6);wait(5)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(6);wait(5)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(6);wait(5)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(5) print(6) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(5) print(6) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(5) print(6) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(5) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(5) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(5) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(5);wait(4)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(5);wait(4)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(5);wait(4)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(4) print(5) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(4) print(5) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(4) print(5) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(4) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(4) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(4) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(4);wait(3)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(4);wait(3)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(4);wait(3)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(3) print(4) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(3) print(4) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(3) print(4) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(3) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(3) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(3) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(3);wait(2)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(3);wait(2)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(3);wait(2)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(2) print(3) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(2) print(3) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(2) print(3) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(2) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(2) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(2) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(2);wait(1)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(2);wait(1)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(2);wait(1)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(1) print(2) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(1) print(2) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(1) print(2) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(1) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(1) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(1) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(1);wait(0)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(1);wait(0)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) (print(1);wait(0)) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(0) print(1) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(0) print(1) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(0) print(1) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(0) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(0) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) wait(0) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) 
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 1 200 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v->20 
+File Table:
+Heap Table:
+Output:10 9 8 7 6 5 4 3 2 1 200 
+
+--------------------------------

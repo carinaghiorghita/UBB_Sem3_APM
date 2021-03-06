@@ -1,0 +1,882 @@
+
+Thread ID:1
+Execution Stack:(v<-int;(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))) v=10 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))) v=10 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))) v=10 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(sleep(10);print(v*10)) fork((v=v-1;(v=v-1;print(v)))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(sleep(10);print(v*10)) fork((v=v-1;(v=v-1;print(v)))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(sleep(10);print(v*10)) fork((v=v-1;(v=v-1;print(v)))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(sleep(10);print(v*10)) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;(v=v-1;print(v))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(sleep(10);print(v*10)) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;(v=v-1;print(v))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(sleep(10);print(v*10)) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;(v=v-1;print(v))) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(10) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;print(v)) v=v-1 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(10) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;print(v)) v=v-1 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(10) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;print(v)) v=v-1 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(9) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;print(v)) 
+Symbol Table:v->9 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(9) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;print(v)) 
+Symbol Table:v->9 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(9) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;print(v)) 
+Symbol Table:v->9 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(8) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:print(v) v=v-1 
+Symbol Table:v->9 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(8) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:print(v) v=v-1 
+Symbol Table:v->9 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(8) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:print(v) v=v-1 
+Symbol Table:v->9 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(7) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:print(v) 
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(7) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:print(v) 
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(7) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:print(v) 
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(6) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(6) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(6) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(5) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(5) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(5) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(4) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(4) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(4) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(3) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(3) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(3) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(2) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(2) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(2) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(1) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(1) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(1) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(0) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(0) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) sleep(0) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(v*10) 
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 100 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v->10 
+File Table:
+Heap Table:
+Output:8 100 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->8 
+File Table:
+Heap Table:
+Output:8 100 
+
+--------------------------------

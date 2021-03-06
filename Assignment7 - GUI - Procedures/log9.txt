@@ -1,0 +1,1134 @@
+
+Thread ID:1
+Execution Stack:(b<-bool;(c<-int;(b=true;((b)?100:200;(print(c);((false)?100:200;print(c))))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;((b)?100:200;(print(c);((false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;((b)?100:200;(print(c);((false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;((b)?100:200;(print(c);((false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;((b)?100:200;(print(c);((false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;((b)?100:200;(print(c);((false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;((b)?100:200;(print(c);((false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;((b)?100:200;(print(c);((false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;((b)?100:200;(print(c);((false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;((b)?100:200;(print(c);((false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;((b)?100:200;(print(c);((false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;((b)?100:200;(print(c);((false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;((b)?100:200;(print(c);((false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((b)?100:200;(print(c);((false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((b)?100:200;(print(c);((false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((b)?100:200;(print(c);((false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((b)?100:200;(print(c);((false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((b)?100:200;(print(c);((false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((b)?100:200;(print(c);((false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) (b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) (b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) (b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) (if(b) then(c=100) else(c=200)) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) (if(b) then(c=100) else(c=200)) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) (if(b) then(c=100) else(c=200)) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) c=100 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) c=100 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) c=100 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);((false)?100:200;print(c))) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((false)?100:200;print(c)) print(c) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((false)?100:200;print(c)) print(c) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((false)?100:200;print(c)) print(c) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((false)?100:200;print(c)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((false)?100:200;print(c)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((false)?100:200;print(c)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (false)?100:200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (false)?100:200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (false)?100:200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (if(false) then(c=100) else(c=200)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (if(false) then(c=100) else(c=200)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (if(false) then(c=100) else(c=200)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) 
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) 
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) 
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 200 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 200 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b<-bool;(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=(b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=(b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=(b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) (if(b) then(c=100) else(c=200)) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) (if(b) then(c=100) else(c=200)) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b<-bool;(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) b<-bool 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))))) 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) c<-int 
+Symbol Table:b->false 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=true;(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c))))) 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) b=true 
+Symbol Table:b->false c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(b)?100:200;(print(c);(c=(false)?100:200;print(c)))) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=(b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=(b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=(b)?100:200 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) (if(b) then(c=100) else(c=200)) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) (if(b) then(c=100) else(c=200)) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) (if(b) then(c=100) else(c=200)) 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=100 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=100 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) c=100 
+Symbol Table:b->true c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(c);(c=(false)?100:200;print(c))) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(false)?100:200;print(c)) print(c) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(false)?100:200;print(c)) print(c) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(false)?100:200;print(c)) print(c) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(false)?100:200;print(c)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(false)?100:200;print(c)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=(false)?100:200;print(c)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=(false)?100:200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=(false)?100:200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=(false)?100:200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (if(false) then(c=100) else(c=200)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (if(false) then(c=100) else(c=200)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) (if(false) then(c=100) else(c=200)) 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) c=200 
+Symbol Table:b->true c->100 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) 
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) 
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(c) 
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 200 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:b->true c->200 
+File Table:
+Heap Table:
+Output:100 200 
+
+--------------------------------

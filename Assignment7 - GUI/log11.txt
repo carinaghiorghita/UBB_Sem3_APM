@@ -1,0 +1,513 @@
+
+Thread ID:1
+Execution Stack:(a<-int;(b<-int;(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b<-int;(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))))) a<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b<-int;(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))))) a<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b<-int;(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))))) a<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b<-int;(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))))) 
+Symbol Table:a->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b<-int;(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))))) 
+Symbol Table:a->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b<-int;(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))))) 
+Symbol Table:a->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))))) b<-int 
+Symbol Table:a->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))))) b<-int 
+Symbol Table:a->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))))) b<-int 
+Symbol Table:a->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))))) 
+Symbol Table:a->0 b->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))))) 
+Symbol Table:a->0 b->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c<-int;(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))))) 
+Symbol Table:a->0 b->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))) c<-int 
+Symbol Table:a->0 b->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))) c<-int 
+Symbol Table:a->0 b->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))) c<-int 
+Symbol Table:a->0 b->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))) 
+Symbol Table:a->0 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))) 
+Symbol Table:a->0 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a=1;(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))))) 
+Symbol Table:a->0 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))) a=1 
+Symbol Table:a->0 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))) a=1 
+Symbol Table:a->0 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))) a=1 
+Symbol Table:a->0 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))) 
+Symbol Table:a->1 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))) 
+Symbol Table:a->1 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(b=2;(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)))) 
+Symbol Table:a->1 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))) b=2 
+Symbol Table:a->1 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))) b=2 
+Symbol Table:a->1 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))) b=2 
+Symbol Table:a->1 b->0 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))) 
+Symbol Table:a->1 b->2 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))) 
+Symbol Table:a->1 b->2 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(c=5;(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300))) 
+Symbol Table:a->1 b->2 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)) c=5 
+Symbol Table:a->1 b->2 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)) c=5 
+Symbol Table:a->1 b->2 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)) c=5 
+Symbol Table:a->1 b->2 c->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300));print(300)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) switch(a*10) (case b*c: (print(a);print(b)))(case 10: (print(100);print(200)))(default: print(300)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) (if(a*10==b*c) then((print(a);print(b))) else((if(a*10==10) then((print(100);print(200))) else(print(300))))) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) (if(a*10==b*c) then((print(a);print(b))) else((if(a*10==10) then((print(100);print(200))) else(print(300))))) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) (if(a*10==b*c) then((print(a);print(b))) else((if(a*10==10) then((print(100);print(200))) else(print(300))))) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) (print(a);print(b)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) (print(a);print(b)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) (print(a);print(b)) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) print(b) print(a) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) print(b) print(a) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) print(b) print(a) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) print(b) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) print(b) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) print(b) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(300) 
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:1 2 300 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:a->1 b->2 c->5 
+File Table:
+Heap Table:
+Output:1 2 300 
+
+--------------------------------

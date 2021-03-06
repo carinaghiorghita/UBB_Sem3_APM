@@ -1,0 +1,270 @@
+
+Thread ID:1
+Execution Stack:(v1<-int;(v2<-int;(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2<-int;(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))))) v1<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2<-int;(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))))) v1<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2<-int;(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))))) v1<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2<-int;(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))))) 
+Symbol Table:v1->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2<-int;(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))))) 
+Symbol Table:v1->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2<-int;(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))))) 
+Symbol Table:v1->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))))) v2<-int 
+Symbol Table:v1->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))))) v2<-int 
+Symbol Table:v1->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))))) v2<-int 
+Symbol Table:v1->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))))) 
+Symbol Table:v1->0 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))))) 
+Symbol Table:v1->0 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v1=2;(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))))) 
+Symbol Table:v1->0 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))) v1=2 
+Symbol Table:v1->0 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))) v1=2 
+Symbol Table:v1->0 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))) v1=2 
+Symbol Table:v1->0 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))) 
+Symbol Table:v1->2 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))) 
+Symbol Table:v1->2 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v2=3;(if(v1>0) then(print(MUL(v1,v2))) else(print(v1)))) 
+Symbol Table:v1->2 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))) v2=3 
+Symbol Table:v1->2 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))) v2=3 
+Symbol Table:v1->2 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))) v2=3 
+Symbol Table:v1->2 v2->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))) 
+Symbol Table:v1->2 v2->3 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))) 
+Symbol Table:v1->2 v2->3 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(if(v1>0) then(print(MUL(v1,v2))) else(print(v1))) 
+Symbol Table:v1->2 v2->3 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(MUL(v1,v2)) 
+Symbol Table:v1->2 v2->3 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(MUL(v1,v2)) 
+Symbol Table:v1->2 v2->3 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:print(MUL(v1,v2)) 
+Symbol Table:v1->2 v2->3 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v1->2 v2->3 
+File Table:
+Heap Table:
+Output:1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v1->2 v2->3 
+File Table:
+Heap Table:
+Output:1 
+
+--------------------------------

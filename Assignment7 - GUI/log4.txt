@@ -1,0 +1,378 @@
+
+Thread ID:1
+Execution Stack:(openFile(ex4.in);(v<-int;(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v<-int;(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))))) openFile(ex4.in) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v<-int;(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))))) openFile(ex4.in) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v<-int;(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))))) openFile(ex4.in) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v<-int;(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))))) 
+Symbol Table:
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v<-int;(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))))) 
+Symbol Table:
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v<-int;(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))))) 
+Symbol Table:
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)))) v<-int 
+Symbol Table:
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)))) v<-int 
+Symbol Table:
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)))) v<-int 
+Symbol Table:
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)))) 
+Symbol Table:v->0 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)))) 
+Symbol Table:v->0 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(readFile(ex4.in);(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)))) 
+Symbol Table:v->0 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))) readFile(ex4.in) 
+Symbol Table:v->0 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))) readFile(ex4.in) 
+Symbol Table:v->0 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))) readFile(ex4.in) 
+Symbol Table:v->0 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v);((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in))) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)) print(v) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)) print(v) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)) print(v) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:((if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1)));closeFile(ex4.in)) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) (if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1))) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) (if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1))) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) (if(v>=2) then((readFile(ex4.in);print(v))) else(print(-1))) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) (readFile(ex4.in);print(v)) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) (readFile(ex4.in);print(v)) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) (readFile(ex4.in);print(v)) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) print(v) readFile(ex4.in) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) print(v) readFile(ex4.in) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) print(v) readFile(ex4.in) 
+Symbol Table:v->20 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) print(v) 
+Symbol Table:v->300 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) print(v) 
+Symbol Table:v->300 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) print(v) 
+Symbol Table:v->300 
+File Table:ex4.in 
+Heap Table:
+Output:20 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) 
+Symbol Table:v->300 
+File Table:ex4.in 
+Heap Table:
+Output:20 300 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) 
+Symbol Table:v->300 
+File Table:ex4.in 
+Heap Table:
+Output:20 300 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:closeFile(ex4.in) 
+Symbol Table:v->300 
+File Table:ex4.in 
+Heap Table:
+Output:20 300 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v->300 
+File Table:
+Heap Table:
+Output:20 300 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v->300 
+File Table:
+Heap Table:
+Output:20 300 
+
+--------------------------------

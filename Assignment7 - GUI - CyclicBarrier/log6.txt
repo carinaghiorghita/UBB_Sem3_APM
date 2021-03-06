@@ -1,0 +1,162 @@
+
+Thread ID:1
+Execution Stack:(v<-Ref(int);(a<-Ref(Ref(int));(new(v,20);(new(a,v);(write(v,30);print(read(a))))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a<-Ref(Ref(int));(new(v,20);(new(a,v);(write(v,30);print(read(a)))))) v<-Ref(int) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a<-Ref(Ref(int));(new(v,20);(new(a,v);(write(v,30);print(read(a)))))) v<-Ref(int) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a<-Ref(Ref(int));(new(v,20);(new(a,v);(write(v,30);print(read(a)))))) v<-Ref(int) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a<-Ref(Ref(int));(new(v,20);(new(a,v);(write(v,30);print(read(a)))))) 
+Symbol Table:v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a<-Ref(Ref(int));(new(v,20);(new(a,v);(write(v,30);print(read(a)))))) 
+Symbol Table:v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(a<-Ref(Ref(int));(new(v,20);(new(a,v);(write(v,30);print(read(a)))))) 
+Symbol Table:v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(v,20);(new(a,v);(write(v,30);print(read(a))))) a<-Ref(Ref(int)) 
+Symbol Table:v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(v,20);(new(a,v);(write(v,30);print(read(a))))) a<-Ref(Ref(int)) 
+Symbol Table:v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(v,20);(new(a,v);(write(v,30);print(read(a))))) a<-Ref(Ref(int)) 
+Symbol Table:v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(v,20);(new(a,v);(write(v,30);print(read(a))))) 
+Symbol Table:a->(0,Ref(int)) v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(v,20);(new(a,v);(write(v,30);print(read(a))))) 
+Symbol Table:a->(0,Ref(int)) v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(v,20);(new(a,v);(write(v,30);print(read(a))))) 
+Symbol Table:a->(0,Ref(int)) v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(a,v);(write(v,30);print(read(a)))) new(v,20) 
+Symbol Table:a->(0,Ref(int)) v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(a,v);(write(v,30);print(read(a)))) new(v,20) 
+Symbol Table:a->(0,Ref(int)) v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(a,v);(write(v,30);print(read(a)))) new(v,20) 
+Symbol Table:a->(0,Ref(int)) v->(0,int) 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(a,v);(write(v,30);print(read(a)))) 
+Symbol Table:a->(0,Ref(int)) v->(1,int) 
+File Table:
+Heap Table:1->20 
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(new(a,v);(write(v,30);print(read(a)))) 
+Symbol Table:a->(0,Ref(int)) v->(1,int) 
+File Table:
+Heap Table:1->20 
+Output:
+
+--------------------------------

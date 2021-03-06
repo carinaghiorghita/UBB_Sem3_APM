@@ -1,0 +1,4482 @@
+
+Thread ID:1
+Execution Stack:(v<-int;(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) x<-int 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) x<-int 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) x<-int 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) y<-int 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) y<-int 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) y<-int 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) v=0 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) v=0 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) v=0 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) ((fork((print(v);(v=v-1;)));(v=v+1;));while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) ((fork((print(v);(v=v-1;)));(v=v+1;));while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) ((fork((print(v);(v=v-1;)));(v=v+1;));while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: v=v-1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: v=v-1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: v=v-1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: 
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: 
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: 
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: v=v-1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: v=v-1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: v=v-1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: v=v-1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: v=v-1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: v=v-1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v<-int;(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))))) 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) v<-int 
+Symbol Table:
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x<-int;(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))))) 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) x<-int 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) x<-int 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) x<-int 
+Symbol Table:v->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y<-int;(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))))) 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) y<-int 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) y<-int 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) y<-int 
+Symbol Table:v->0 x->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(v=0;(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);))))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) v=0 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) v=0 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) v=0 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3;(x=1;(;(y=3;(;(print(v*10);)))))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) repeat (fork((print(v);(v=v-1;)));(v=v+1;)) until v==3 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) ((fork((print(v);(v=v-1;)));(v=v+1;));while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) ((fork((print(v);(v=v-1;)));(v=v+1;));while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) ((fork((print(v);(v=v-1;)));(v=v+1;));while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:(v=v-1;) 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: v=v-1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: v=v-1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: v=v-1 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: 
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: 
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack: 
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:(v=v-1;) 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: v=v-1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: v=v-1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: v=v-1 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (fork((print(v);(v=v-1;)));(v=v+1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack: 
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) fork((print(v);(v=v-1;))) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} (v=v+1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(print(v);(v=v-1;)) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  v=v+1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) print(v) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))}  
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:(v=v-1;) 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: v=v-1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: v=v-1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) while(!(v==3)) {(fork((print(v);(v=v-1;)));(v=v+1;))} 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: v=v-1 
+Symbol Table:v->2 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(x=1;(;(y=3;(;(print(v*10);))))) 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack: 
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(y=3;(;(print(v*10);)))) x=1 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(y=3;(;(print(v*10);)))) x=1 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(y=3;(;(print(v*10);)))) x=1 
+Symbol Table:v->3 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(y=3;(;(print(v*10);)))) 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(y=3;(;(print(v*10);)))) 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(y=3;(;(print(v*10);)))) 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y=3;(;(print(v*10);)))  
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y=3;(;(print(v*10);)))  
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y=3;(;(print(v*10);)))  
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y=3;(;(print(v*10);))) 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y=3;(;(print(v*10);))) 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(y=3;(;(print(v*10);))) 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(print(v*10);)) y=3 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(print(v*10);)) y=3 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(print(v*10);)) y=3 
+Symbol Table:v->3 x->1 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(print(v*10);)) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(print(v*10);)) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(;(print(v*10);)) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v*10);)  
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v*10);)  
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v*10);)  
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v*10);) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v*10);) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:(print(v*10);) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack: print(v*10) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack: print(v*10) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack: print(v*10) 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack: 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack: 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack: 
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:1
+Execution Stack:
+Symbol Table:v->3 x->1 y->3 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:2
+Execution Stack:
+Symbol Table:v->-1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:3
+Execution Stack:
+Symbol Table:v->0 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
+
+Thread ID:4
+Execution Stack:
+Symbol Table:v->1 x->0 y->0 
+File Table:
+Heap Table:
+Output:0 1 2 30 
+
+--------------------------------
